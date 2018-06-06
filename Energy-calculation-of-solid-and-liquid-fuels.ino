@@ -44,7 +44,7 @@
 
 float massOfWater = 7500.0;     // [g]    - This is the mass of the water that is being heated by the fuel in grams 
 float massOfBurnedFuel = 5.0;   // [g]    - This is the mass which was lost by combustion/burning and heating the water in grams
-float deltaT = 5.0;             // [�C]   - This is the temperature difference, for how much the water heated up in degrees celsius or Kelvin
+float deltaT = 5.0;             // [deg C]- This is the temperature difference, for how much the water heated up in degrees celsius or Kelvin
 
 float energyOfFuel_Cal_g;
 float energyOfFuel_Cal_kg;
