@@ -1,5 +1,6 @@
 # Energy calculation of solid and liquid fuels
 Programmed and compiled in Arduino IDE
+
 Compiled code ran on a Maple Mini (STM32F103CBT6)
 
 This is an example of a standard way to calculate the energy of a liquid or solid fuel.
